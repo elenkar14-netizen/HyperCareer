@@ -4,3 +4,4 @@ HyperCareer — сервис карьерных консультаций. Пом
 
 Письма
 Кейс Димы: как 70 тыс. ₽ превратились в оффер ×2, а через год — в 400к на старте. Ссылка: https://elenkar14-netizen.github.io/HyperCareer/case_Dima.html
+Кейс Андрея: 2 оффера, Мюнхен или Дубай. Ссылка: https://elenkar14-netizen.github.io/HyperCareer/case_Andrey.html
